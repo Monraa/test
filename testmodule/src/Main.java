@@ -14,7 +14,7 @@ public class Main {
         }
     }
         if (a==1){
-            System.out.print("Has alcanzado el 8");
+            System.out.print("Has alcanzado el 8\n");
         }
         System.out.println("Contador final= "+contador);
 
